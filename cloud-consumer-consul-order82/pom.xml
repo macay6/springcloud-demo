@@ -9,20 +9,14 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>ccloud-consumer-zk-order81</artifactId>
+    <artifactId>cloud-consumer-consul-order82</artifactId>
 
 
     <dependencies>
-        <!-- eureka-client -->
-        <!-- <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
-        </dependency>-->
-        <!--替换掉eureka依赖，其他直接复制8001-->
-        <!--SpringBoot整合Zookeeper客户端-->
+        <!--SpringCloud consul-server-->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-zookeeper-discovery</artifactId>
+            <artifactId>spring-cloud-starter-consul-discovery</artifactId>
         </dependency>
         <dependency>
             <groupId>com.macay.springcloud</groupId>
