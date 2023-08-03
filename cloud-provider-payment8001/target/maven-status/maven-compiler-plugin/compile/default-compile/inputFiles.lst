@@ -1,7 +1,5 @@
 /Users/macay/myProject/idea/springcloud/cloud-provider-payment8001/src/main/java/com/macay/controller/PaymentController.java
 /Users/macay/myProject/idea/springcloud/cloud-provider-payment8001/src/main/java/com/macay/service/impl/PaymentServiceImpl.java
 /Users/macay/myProject/idea/springcloud/cloud-provider-payment8001/src/main/java/com/macay/service/PaymentService.java
-/Users/macay/myProject/idea/springcloud/cloud-provider-payment8001/src/main/java/com/macay/entity/CommonResult.java
-/Users/macay/myProject/idea/springcloud/cloud-provider-payment8001/src/main/java/com/macay/entity/Payment.java
 /Users/macay/myProject/idea/springcloud/cloud-provider-payment8001/src/main/java/com/macay/PaymentMain8001.java
 /Users/macay/myProject/idea/springcloud/cloud-provider-payment8001/src/main/java/com/macay/dao/PaymentDao.java
