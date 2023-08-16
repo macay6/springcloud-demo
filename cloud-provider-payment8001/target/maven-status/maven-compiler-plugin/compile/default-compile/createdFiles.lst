@@ -1,5 +1,5 @@
+com/macay/consumer/PaymentController.class
 com/macay/dao/PaymentDao.class
 com/macay/service/PaymentService.class
-com/macay/controller/PaymentController.class
 com/macay/PaymentMain8001.class
 com/macay/service/impl/PaymentServiceImpl.class
